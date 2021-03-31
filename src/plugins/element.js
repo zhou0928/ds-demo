@@ -1,10 +1,11 @@
-import Vue from "vue";
-
-// // 导入弹框提示组件  Message
-import {Button, Form, FormItem, Input, Message} from 'element-ui'
-
-Vue.use(Button)
-Vue.use(Form)
-Vue.use(FormItem)
-Vue.use(Input)
-Vue.prototype.$message = Message
+// import Vue from "vue";
+// import 'element-ui/lib/theme-chalk/index.css';
+// // // 导入弹框提示组件  Message
+// import {Button, Form, FormItem, Input, Message} from 'element-ui'
+//
+// Vue.use(Button)
+// Vue.use(Form)
+// Vue.use(FormItem)
+// Vue.use(Input)
+//
+// Vue.prototype.$message = Message
